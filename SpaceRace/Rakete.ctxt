@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rakete
+comment1.params=px\ py
+comment1.target=Rakete(double,\ double)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics2D)
+comment3.params=
+comment3.target=void\ bewege()
+comment4.params=pV
+comment4.target=void\ setV(double)
+comment5.params=
+comment5.target=void\ reset()
+comment6.params=
+comment6.target=double\ getX()
+comment7.params=
+comment7.target=double\ getY()
+comment8.params=
+comment8.target=double\ getR()
+numComments=9
