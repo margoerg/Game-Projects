@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment1.params=pX\ pY\ sprites
+comment1.target=Obstacle(double,\ double,\ java.awt.image.BufferedImage)
+comment2.params=g2
+comment2.target=void\ paint(java.awt.Graphics2D)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=pX
+comment6.target=void\ setX(double)
+comment7.params=
+comment7.target=boolean\ outOfBounds()
+comment8.params=sprites
+comment8.target=void\ setImage(java.awt.image.BufferedImage)
+numComments=9
